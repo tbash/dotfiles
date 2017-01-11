@@ -28,10 +28,10 @@
   local   = yellow
   remote  = magenta
 [user]
-  name = T. Brandon Ashley
+  name  = T. Brandon Ashley
   email = tb@tba.sh
 [github]
-  user = teebash
+  user = tbash
 [credential]
   helper = osxkeychain
 [core]
